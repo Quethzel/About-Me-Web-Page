@@ -34,7 +34,7 @@ body {
     margin-bottom: 5px;
     font-size: 70px;
     letter-spacing: -4px;
-    font-weight: 100;
+    font-weight: 200;
   }
   h1 span {
     font-size: 26px;
@@ -42,7 +42,6 @@ body {
     text-transform: capitalize;
     background: rgba(0,0,0,0.85);
     display: inline-block;
-    color: #6D461D;
     border-radius: 5px 5px;
     -webkit-border-radius: 5px 5px;
     -moz-border-radius: 5px 5px;
@@ -50,8 +49,7 @@ body {
     padding: 3px 10px;
   }
   h2 {
-    color: #6D461D;
-    font-weight: 100;
+    font-weight: 400;
     margin: 0 0 10px 50px;
   }
   
@@ -100,7 +98,7 @@ body {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    font-weight: 100;
+    /* font-weight: 100; */
     margin: 0;
     margin-left: 50px;
   }
@@ -270,7 +268,7 @@ body {
     color: #ccc;
     text-align: center;
     line-height: 160%;
-    font-weight: 100;
+    font-weight: 200;
   }
   .main section.page2 p {
       color: #ccc;
@@ -299,7 +297,7 @@ body {
     color: rgba(0,0,0,0.85);
     text-align: left;
     line-height: 160%;
-    font-weight: 100;
+    /* font-weight: 100; */
     font-size: 21px;
   }
   
@@ -526,7 +524,13 @@ line-height: 0;
   float: right;
 }
 
-@media only screen and (min-width: 320px) and (max-width: 759px) {
+@media only screen and (min-width: 600px) and (max-width: 758px) {
+  .chart-wrapper {
+    margin-top: 40%;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 758px) {
     #carbonads {
     float: none;
     margin: 0 auto;
@@ -602,7 +606,7 @@ line-height: 0;
     background-color: #1c1c1c;
 }
 .page4 h1 {
-    color: #5c5c5c;
+    color: #ababab;
 }
 .page4 ul li {
     list-style: none;
@@ -611,10 +615,10 @@ line-height: 0;
     font-size: 1.5em;
 }
 .page4 a {
-    color: #555;
+    color: #ababab;
 }
 .page4 a:hover {
-    color: #ccc;
+    color: #fff;
 }
 
 .qzl-list {
