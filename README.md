@@ -13,7 +13,7 @@
     - Chart.js v2.9.3
     - jQuery v1.9.1
     - jQuery One Page Scroll v1.3.1
- - Libraries from CDN
+ - From CDN
     - Font Awesome v5.13.0 
     - Google Fonts
 
