@@ -9,11 +9,13 @@
  - CSS
  - Js
  ### Libraries
+ - Included
   - Chart.js v2.9.3
- - jQuery v1.9.1
- - jQuery One Page Scroll v1.3.1
- - CDN/Font Awesome v5.13.0 
- - Google Fonts
+  - jQuery v1.9.1
+  - jQuery One Page Scroll v1.3.1
+ - Libraries from CDN
+  - Font Awesome v5.13.0 
+  - Google Fonts
 
 ### How to use it
 1. Download or clone the repo.
