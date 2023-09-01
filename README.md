@@ -2,7 +2,7 @@
 
 ## About Me Web page template
  
- Minimalist and responsive template as one single page. [Demo here!](https://quethzel.github.io/)
+ Minimalist and responsive template as one single page. [Demo here!](https://quethzel.github.io/About-Me-Web-Page/))
 
  ### Build with
  - HTML
